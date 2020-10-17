@@ -1,0 +1,25 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan NUEVO!",
+      "email": "correo2@correo.com",
+      "telefono": "12",
+      "empresa": "12212",
+      "id": 26
+    },
+    {
+      "nombre": "ayelen beatriz",
+      "email": "ayu_22@hotmail.com",
+      "telefono": "2245656",
+      "empresa": "peluqueria",
+      "id": 39
+    },
+    {
+      "nombre": "César ramon",
+      "email": "cordobacesar29@gmail.com",
+      "telefono": "5555",
+      "empresa": "cesarmon",
+      "id": 40
+    }
+  ]
+}
